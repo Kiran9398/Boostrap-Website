@@ -1,0 +1,79 @@
+#nav-index-bg {
+  background-color: wheat !important;
+}
+#nav-about-bg {
+  background-color: #c71585 !important;
+}
+.modal-input-item {
+  width: 470px !important;
+  border-radius: 3px !important;
+  height: 40px;
+}
+.main-page-bg {
+  background-image: url("D:\Mentor Projects\Boostrap Website\index.jpg") !important;
+  background-size: cover;
+}
+.input-container {
+  height: 38px !important;
+  border-color: red;
+  border-radius: 4px;
+}
+.web-buttons {
+  border: none !important;
+  color: white;
+  border-radius: 3px;
+  height: 40px;
+}
+.items-container {
+  border-radius: 10px !important;
+  padding-top: fit;
+}
+.crick-love-para {
+  font-size: 12px;
+  font-weight: 500;
+  color: red;
+  margin-top: 13px;
+}
+.cricket-my-heading {
+  font-size: 18px;
+  font-weight: bold;
+}
+.cricket-img {
+  width: 120px;
+  height: 230px;
+  object-fit: cover;
+}
+.continue-reading-anchor-tag {
+  text-decoration: underline;
+}
+.back-to-top-achor-tag {
+  text-decoration: underline;
+  text-align: left !important;
+  padding-bottom: 30px;
+  margin-right: 48px;
+}
+.about-item-container {
+  margin-left: 50px;
+  padding-top: 20px !important;
+}
+.about-img {
+  width: 600px;
+  height: 280px;
+  border-radius: 5px;
+}
+.about-container-para-one {
+  margin-left: 20px;
+  font-size: 27px;
+  margin-top: 30px;
+  font-family: sans-serif;
+}
+.about-container-para-two {
+  margin-left: 20px;
+  font-family: sans-serif;
+}
+.about-page-bg {
+  background-color: wheat;
+}
+.practice-bg-color{
+  background-color: aquamarine;
+}
